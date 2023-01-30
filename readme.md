@@ -28,3 +28,9 @@ Bangalore has a unique food culture. Restaurants from all over the world can be 
 - menu_item - contains list of menus available in the restaurant;
 - listed_in(type) - type of meal;
 - listed_in(city) contains the neighborhood in which the restaurant is listed.
+
+### **The main goals of this project:**
+- To find random restaurants with a known average check by converting the average check into the current USD rate and the current EUR rate;
+- To find the most popular restaurants;
+- To find favorite dishes and what is their popularity;
+- To find the number of restaurants at each location.
